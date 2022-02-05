@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MesachVenegas
 - 👀 I’m interested in developer
 - 🌱 I’m currently learning python, mysql
-- 📫 How to reach me ...
+- 📫 How to reach me mesach.venegas@hotmail.com
