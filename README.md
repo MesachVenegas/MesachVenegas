@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MesachVenegas
-- 👀 I’m interested in developing
-- 🌱 I’m currently learning WEB Developer
+- 👀 I’m interested in web applications
+- 🌱 I’m currently learning JS & React
 - 📫 How to reach me mesach.venegas@hotmail.com
