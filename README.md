@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @MesachVenegas
-- 👀 I’m interested in web applications
-- 🌱 I’m currently learning JS & React
+# Hola! soy Mesach Venegas
+### Front End Developer
 
+Soy desarrollador Front End de Apps, con conocimientos en JS, React & Redux ademas tambien se sobre Python.
+Actualmente estoy aprendiendo NodeJs 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MesachVenegas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
