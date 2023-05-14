@@ -1,5 +1,6 @@
 # Hola! soy Mesach Venegas
 ### Front End Developer
+[![wakatime](https://wakatime.com/badge/user/2920fe85-aa29-4c92-ba4d-1573de119aed.svg)](https://wakatime.com/@2920fe85-aa29-4c92-ba4d-1573de119aed)
 
 Soy desarrollador Front End de Apps, con conocimientos en JS, React & Redux ademas tambien se sobre Python.
 Actualmente estoy aprendiendo NodeJs 
