@@ -13,6 +13,12 @@
 Soy desarrollador Front End de Apps, con conocimientos en JS, React & Redux ademas tambien se sobre Python.
 Actualmente estoy aprendiendo NodeJs 
 
+### Technologies & Frameworks
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MesachVenegas)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/MesachVenegas)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/MesachVenegas)
+
+
 <p align="center">
   <a href="https://github.com/MesachVenegas">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MesachVenegas&theme=transparent" />
@@ -31,9 +37,3 @@ Actualmente estoy aprendiendo NodeJs
   </a>
 </p>
 
-### Technologies & Frameworks
-# [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/wervlad)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
-# [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad)
