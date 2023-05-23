@@ -29,6 +29,7 @@ Actualmente estoy aprendiendo NodeJs.
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/MesachVenegas)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/MesachVenegas)
 [![Sequelize](https://img.shields.io/badge/sequelize-black?style=for-the-badge&logo=sequelize)](https://github.com/MesachVenegas)
+[![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://github.com/MesachVenegas)
 [![PostgresSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/MesachVenegas)
 [![NodeJs](https://img.shields.io/badge/node-black?style=for-the-badge&logo=nodedotjs)](https://github.com/MesachVenegas)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/MesachVenegas)
