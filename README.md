@@ -5,14 +5,6 @@
 Soy desarrollador Front End de Apps, con conocimientos en JS, React & Redux ademas tambien se sobre Python.
 Actualmente estoy aprendiendo NodeJs 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MesachVenegas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MesachVenegas&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MesachVenegas&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<details>
 <p align="center">
   <a href="https://github.com/MesachVenegas">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MesachVenegas&theme=transparent" />
@@ -27,7 +19,6 @@ Actualmente estoy aprendiendo NodeJs
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MesachVenegas&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
 
 <p align="center">
   <a href="https://github.com/MesachVenegas">
