@@ -4,10 +4,9 @@
   <a href="https://github.com/MesachVenegas">
     <img src="https://komarev.com/ghpvc/?username=MesachVenegas&color=blue&style=flat)" />
   </a>
-  <a>
+  <a href="https://github.com/MesachVenegas">
     <img src="https://wakatime.com/badge/user/2920fe85-aa29-4c92-ba4d-1573de119aed.svg" />
   </a>
-  [![wakatime](https://wakatime.com/badge/user/2920fe85-aa29-4c92-ba4d-1573de119aed.svg)](https://wakatime.com/@2920fe85-aa29-4c92-ba4d-1573de119aed)
 </p>
 
 
