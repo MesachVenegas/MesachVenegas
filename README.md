@@ -48,8 +48,5 @@ Actualmente estoy aprendiendo NodeJs.
   <a href="https://github.com/MesachVenegas">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MesachVenegas&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
-  <a>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MesachVenegas&layout=compact" />
-  </a>
 </p>
 
