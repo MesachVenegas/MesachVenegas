@@ -26,6 +26,9 @@ Actualmente estoy aprendiendo NodeJs.
   <a href="https://github.com/MesachVenegas">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MesachVenegas&theme=transparent" />
   </a>
+  <a>
+    <img src="https://wakatime.com/share/@MesachVenegas/a13e8392-6cf7-402a-9124-89f406839c1a.svg" width="700px"/>
+  </a>
   <a href="https://github.com/MesachVenegas">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MesachVenegas&theme=transparent" />
   </a>
