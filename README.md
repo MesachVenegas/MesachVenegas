@@ -4,6 +4,8 @@
 
 Soy un desarrollador web Fron-end, con conocimientos en back-end, he trabajado en proyectos propios actualemte, y en busca de mi primer oportunidad laboral en la industria, 
 
+[![React](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)]([https://github.com/MesachVenegas](https://www.linkedin.com/in/mesachvenegas/))
+
 ## Languages
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/MesachVenegas)
