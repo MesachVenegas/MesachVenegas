@@ -2,24 +2,22 @@
 
 ## Full Stack Developer
 
-Soy desarrollador Front End de Apps, con conocimientos en JS, React & Redux ademas tambien se sobre Python.
-Actualmente estoy aprendiendo NodeJs.
+Soy un desarrollador web Fron-end, con conocimientos en back-end, he trabajado en proyectos propios actualemte, y en busca de mi primer oportunidad laboral en la industria, 
 
 ## Languages
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/MesachVenegas)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/MesachVenegas)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/MesachVenegas)
 
 ## Technologies & Frameworks
 
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MesachVenegas)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/MesachVenegas)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/MesachVenegas)
 [![Sequelize](https://img.shields.io/badge/sequelize-black?style=for-the-badge&logo=sequelize)](https://github.com/MesachVenegas)
 [![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://github.com/MesachVenegas)
 [![PostgresSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/MesachVenegas)
 [![NodeJs](https://img.shields.io/badge/node-black?style=for-the-badge&logo=nodedotjs)](https://github.com/MesachVenegas)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/MesachVenegas)
+[![Next.Js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/MesachVenegas)
 
 
 <p align="center">
