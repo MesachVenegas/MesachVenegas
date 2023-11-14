@@ -24,7 +24,9 @@ Soy un desarrollador web Fron-end, con conocimientos en back-end, he trabajado e
 [![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://github.com/MesachVenegas)
 [![PostgresSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/MesachVenegas)
 [![NodeJs](https://img.shields.io/badge/node-black?style=for-the-badge&logo=nodedotjs)](https://github.com/MesachVenegas)
+[![NodeJs](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/MesachVenegas)
 [![Next.Js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/MesachVenegas)
+[![Next.Js](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/MesachVenegas)
 
 
 <p align="center">
