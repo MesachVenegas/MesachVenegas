@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Mesach Venegas and I'm a FullStack Developer</h2>
+<h2 align="left">Hola 👋! Mi nombre es Jonathan Mesach Venegas</h2>
+
+Soy un apasionado desarrollador front-end con 2-3 años de experiencia en programación. Me encanta crear interfaces de usuario atractivas y funcionales utilizando tecnologías como React, Tailwind y JavaScript.En adicion a eso tambien tengo un conocimiento base en back-end con NodeJS y Express para la creacion de API Rest, estoy emocionado por expandir mis conocimientos en el desarrollo back-end y contribuir a proyectos desafiantes. Estoy emocionado por seguir aprendiendo y creciendo como desarrollador. Mi objetivo es obtener un empleo en la industria dev donde pueda aplicar mis habilidades y contribuir al éxito de proyectos significativos.
 
 ###
 
