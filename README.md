@@ -19,16 +19,12 @@ Soy un apasionado desarrollador front-end con 2-3 años de experiencia en progra
 </div>
 
 
-## Frameworks
+## Tech and Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img width="12" />
-</div>
-
-## Other Tech
-<div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
