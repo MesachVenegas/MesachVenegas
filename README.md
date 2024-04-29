@@ -4,7 +4,7 @@ Soy un apasionado desarrollador front-end con 2-3 años de experiencia en progra
 
 ###
 
-<img align="right" height="180" src="https://firebasestorage.googleapis.com/v0/b/kazu-moda-nextjs-firebase.appspot.com/o/profile%2Feb646ed0-5b0d-4032-8c04-0a5f44851101?alt=media&token=8c37a2c1-36fe-4972-be11-64f2289eb29d"  />
+<img align="right" height="120" src="https://firebasestorage.googleapis.com/v0/b/kazu-moda-nextjs-firebase.appspot.com/o/profile%2Feb646ed0-5b0d-4032-8c04-0a5f44851101?alt=media&token=8c37a2c1-36fe-4972-be11-64f2289eb29d"  />
 
 
 ## Languages
