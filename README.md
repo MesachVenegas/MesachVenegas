@@ -1,10 +1,14 @@
 <h2 align="left">Hola 👋! Mi nombre es Jonathan Mesach Venegas</h2>
 
-Soy un apasionado desarrollador front-end con 2-3 años de experiencia en programación. Me encanta crear interfaces de usuario atractivas y funcionales utilizando tecnologías como React, Tailwind y JavaScript.En adicion a eso tambien tengo un conocimiento base en back-end con NodeJS y Express para la creacion de API Rest, estoy emocionado por expandir mis conocimientos en el desarrollo back-end y contribuir a proyectos desafiantes. Estoy emocionado por seguir aprendiendo y creciendo como desarrollador. Mi objetivo es obtener un empleo en la industria dev donde pueda aplicar mis habilidades y contribuir al éxito de proyectos significativos.
+<div >
+  Soy un apasionado desarrollador front-end con 2-3 años de experiencia en programación. Me encanta crear interfaces de usuario atractivas y funcionales utilizando tecnologías como React, Tailwind y JavaScript.En adicion a eso tambien tengo un conocimiento base en back-end con NodeJS y Express para la creacion de API Rest, estoy emocionado por expandir mis conocimientos en el desarrollo back-end y contribuir a proyectos desafiantes. Estoy emocionado por seguir aprendiendo y creciendo como desarrollador. Mi objetivo es obtener un empleo en la industria dev donde pueda aplicar mis habilidades y contribuir al éxito de proyectos significativos.
+  
+  <img height="120" src="https://firebasestorage.googleapis.com/v0/b/kazu-moda-nextjs-firebase.appspot.com/o/profile%2Feb646ed0-5b0d-4032-8c04-0a5f44851101?alt=media&token=8c37a2c1-36fe-4972-be11-64f2289eb29d"  />
+
+</div>
 
 ###
 
-<img align="right" height="120" src="https://firebasestorage.googleapis.com/v0/b/kazu-moda-nextjs-firebase.appspot.com/o/profile%2Feb646ed0-5b0d-4032-8c04-0a5f44851101?alt=media&token=8c37a2c1-36fe-4972-be11-64f2289eb29d"  />
 
 
 ## Languages
@@ -77,9 +81,9 @@ Soy un apasionado desarrollador front-end con 2-3 años de experiencia en progra
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MesachVenegas/MesachVenegas/48fd683f60111a7837dda35dfbeec6ef21b49d40/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MesachVenegas/MesachVenegas/48fd683f60111a7837dda35dfbeec6ef21b49d40/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MesachVenegas/MesachVenegas/48fd683f60111a7837dda35dfbeec6ef21b49d40/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MesachVenegas/MesachVenegas/48fd683f60111a7837dda35dfbeec6ef21b49d40/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
 </picture>
 </div>
 
