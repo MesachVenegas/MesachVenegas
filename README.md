@@ -1,5 +1,4 @@
-<img src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif" height="400" width="100%" />
-<h2 align="left">Hola 👋! Mi nombre es Jonathan Mesach Venegas</h2>
+![Header](./header.png)
 <img src="https://komarev.com/ghpvc/?username=MesachVenegas&style=flat-square&color=blue" alt=""/>
 
 Soy un apasionado desarrollador front-end con 2 años de experiencia en programación. Me encanta crear interfaces de usuario atractivas y funcionales utilizando tecnologías como React, Tailwind y JavaScript.En adición a eso también tengo un conocimiento base en back-end con NodeJS y Express para la creación de API Rest, estoy emocionado por expandir mis conocimientos en el desarrollo back-end y contribuir a proyectos desafiantes. Estoy emocionado por seguir aprendiendo y creciendo como desarrollador.
